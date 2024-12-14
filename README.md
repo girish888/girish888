@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @girish888
+- 👋 Hi, I’m @Girishuday.y
 - 👀 I’m interested in learning new things.
 - 🌱 Currently exploring the world of programming.
 - 💞️ Let’s create something exciting together!
